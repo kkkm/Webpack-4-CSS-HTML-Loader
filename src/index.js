@@ -1,2 +1,2 @@
-import App from "./App";
-import style from "./bootstrap.min.css";
+import App from "./static/App";
+import style from "./static/bootstrap.min.css";
