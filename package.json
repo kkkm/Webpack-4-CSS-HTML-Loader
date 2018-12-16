@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "webpack.config.js",
   "scripts": {
+   "postinstall": "npm install",
   "start": "webpack-dev-server --mode development --open",
   "build": "webpack --mode production"
 },
